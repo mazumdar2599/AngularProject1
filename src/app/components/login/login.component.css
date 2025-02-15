@@ -1,0 +1,22 @@
+
+.align-center{
+	width: 40%;
+	margin: auto;
+}
+.login-card{
+	margin-top: 5%;
+	border-radius: 15px;
+}
+.text-center>h1{
+	text-align: center;
+	color: #E78712;
+	/* padding-top: 2px; */
+	text-decoration: wavy;
+
+}
+.main{
+	background-color: #ece295;
+}
+.log{
+	background-color: #339fca;
+}
