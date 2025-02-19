@@ -9,13 +9,11 @@ A fully featured Angular web application built for managing university students 
 
 	•	📋 Student & Staff Management – Add, update, and delete records.
  
-	•	📚 Course Enrollment – Assign students to courses.
- 
-	•	🔍 Search & Filter – Find students, staff, and courses easily.
+	•	🔍 Search & Filter – Find students, staff easily.
  
 	•	📊 Dashboard – Overview of university data.
  
-	•	🔐 Authentication & Authorization – Secure access for admins and users.
+	•	🔐 Authentication & Authorization – Secure access for admins.
  
 
  🛠️ Tech Used: Angular, TypeScript, Bootstrap, JSON server, React, NodeJS
