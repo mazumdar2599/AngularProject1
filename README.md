@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Description
 
-A fully featured Angular web application built for managing university students and staff records efficiently.
+A fully featured Angular web project built for managing university students and staff records efficiently.
 ✨ Features:
 
 	•	📋 Student & Staff Management – Add, update, and delete records.
